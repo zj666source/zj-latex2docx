@@ -1,0 +1,12 @@
+# PyInstaller 中间产物
+build/
+__pycache__/
+*.spec
+
+# 运行日志 / 测试残留
+*.log
+run_test*
+公式转换_error.log
+
+# 微软组件（版权原因不入库，用 fetch_xsl.py 获取）
+MML2OMML.XSL

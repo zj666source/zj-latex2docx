@@ -1,0 +1,4 @@
+latex2mathml
+lxml
+pyinstaller
+pillow
